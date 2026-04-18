@@ -1,0 +1,5 @@
+print("Mən proqramlaşdırma öyrənirəm")
+print("Adım:", "Alsu")
+print("Yaşım:", 13)
+print("Sevdiyim rəng:", "Qırmızı")
+print("Mən gələcək proqramçıyam")
