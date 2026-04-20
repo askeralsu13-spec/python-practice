@@ -1,0 +1,6 @@
+username = input("Enter username:Alok")
+password = input("Enter password: 1234")
+if = ("Username and password correct")
+print("Login succesful")
+else:
+print("Wrong username or password")
